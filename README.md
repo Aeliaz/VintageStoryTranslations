@@ -61,10 +61,10 @@ All our translations can be found on my GitHub.
 
 Who has already benefited from our services?
 
-- Dana:
-> Banners
-> DanaCanCooks
-> Banners
+Dana:
+> Banners,
+> DanaCanCooks,
+> Banners,
 > DanaTweak
 
 We offer our services for Ukrainian developers.
