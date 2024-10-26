@@ -64,7 +64,7 @@ Who has already benefited from our services?
 Dana:
 > Banners,
 > DanaCanCooks,
-> Banners,
+> Vannilla Variable,
 > DanaTweak
 
 We offer our services for Ukrainian developers.
