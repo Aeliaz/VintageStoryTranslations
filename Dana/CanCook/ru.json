@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Дана умеет готовить",
+  "item-sandwich": "Сэндвич",
+  "block-cuttingboard*": "Разделочная доска",
+  "item-slicedbread-spelt-perfect": "Нарезанный хлеб из полбы",
+  "item-slicedbread-rye-perfect": "Ржаной нарезанный хлеб",
+  "item-slicedbread-flax-perfect": "Льняной хлеб нарезанный",
+  "item-slicedbread-rice-perfect": "Рисовый хлеб, нарезанный ломтиками",
+  "item-slicedbread-cassava-perfect": "Нарезанный хлеб из маниоки",
+  "item-slicedbread-amaranth-perfect": "Амарантовый хлеб нарезанный",
+  "item-slicedbread-sunflower-perfect": "Хлеб нарезанный подсолнух",
+  "contents-sandwich": "Содержимое сэндвича:",
+  "when-eaten": "Когда едят:",
+  "category-and-saturation-and-hp": "{0}, {1} сб, {2} л.с.",
+  "category-and-saturation": "{0}, {1} сб"
+}

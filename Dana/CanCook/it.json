@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana sa cucinare",
+  "item-sandwich": "Sandwich",
+  "block-cuttingboard*": "Tagliere",
+  "item-slicedbread-spelt-perfect": "Pane al farro a fette",
+  "item-slicedbread-rye-perfect": "Pane di segale a fette",
+  "item-slicedbread-flax-perfect": "Pane a fette di lino",
+  "item-slicedbread-rice-perfect": "Pane a fette di riso",
+  "item-slicedbread-cassava-perfect": "Pane a fette di manioca",
+  "item-slicedbread-amaranth-perfect": "Pane a fette all'amaranto",
+  "item-slicedbread-sunflower-perfect": "Pane a fette di girasole",
+  "contents-sandwich": "Contenuto del panino:",
+  "when-eaten": "Quando mangiato:",
+  "category-and-saturation-and-hp": "{0}, {1} seduto, {2} cv",
+  "category-and-saturation": "{0}, {1} sabato"
+}

@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana sabe cozinhar",
+  "item-sandwich": "Sanduíche",
+  "block-cuttingboard*": "Tábua de corte",
+  "item-slicedbread-spelt-perfect": "Pão fatiado de espelta",
+  "item-slicedbread-rye-perfect": "Pão fatiado de centeio",
+  "item-slicedbread-flax-perfect": "Pão fatiado de linho",
+  "item-slicedbread-rice-perfect": "Pão fatiado de arroz",
+  "item-slicedbread-cassava-perfect": "Pão fatiado de mandioca",
+  "item-slicedbread-amaranth-perfect": "Pão fatiado de amaranto",
+  "item-slicedbread-sunflower-perfect": "Pão fatiado de girassol",
+  "contents-sandwich": "Conteúdo do sanduíche:",
+  "when-eaten": "Quando comido:",
+  "category-and-saturation-and-hp": "{0}, {1} sat, {2} hp",
+  "category-and-saturation": "{0}, {1} sábado"
+}

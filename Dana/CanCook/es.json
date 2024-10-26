@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana puede cocinar",
+  "item-sandwich": "Sándwich",
+  "block-cuttingboard*": "Tabla de cortar",
+  "item-slicedbread-spelt-perfect": "Pan de molde de espelta",
+  "item-slicedbread-rye-perfect": "Pan de centeno rebanado",
+  "item-slicedbread-flax-perfect": "Pan de molde de lino",
+  "item-slicedbread-rice-perfect": "Pan de arroz en rodajas",
+  "item-slicedbread-cassava-perfect": "Pan de yuca en rodajas",
+  "item-slicedbread-amaranth-perfect": "Pan de molde de amaranto",
+  "item-slicedbread-sunflower-perfect": "Pan de molde de girasol",
+  "contents-sandwich": "Contenido del sándwich:",
+  "when-eaten": "Cuando se come:",
+  "category-and-saturation-and-hp": "{0}, {1} sat, {2} CV",
+  "category-and-saturation": "{0}, {1} sábado"
+}

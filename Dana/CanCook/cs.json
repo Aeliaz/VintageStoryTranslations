@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana umí vařit",
+  "item-sandwich": "Sendvič",
+  "block-cuttingboard*": "Prkénko",
+  "item-slicedbread-spelt-perfect": "Špaldový chléb na plátky",
+  "item-slicedbread-rye-perfect": "Žitný chléb nakrájený na plátky",
+  "item-slicedbread-flax-perfect": "Lněný chléb na plátky",
+  "item-slicedbread-rice-perfect": "Rýžové plátky chleba",
+  "item-slicedbread-cassava-perfect": "Cassava plátky chleba",
+  "item-slicedbread-amaranth-perfect": "Amarantové plátky chleba",
+  "item-slicedbread-sunflower-perfect": "Slunečnicový chléb na plátky",
+  "contents-sandwich": "Obsah sendviče:",
+  "when-eaten": "Při jídle:",
+  "category-and-saturation-and-hp": "{0}, {1} sobotní, {2} hp",
+  "category-and-saturation": "{0}, {1} sobota"
+}

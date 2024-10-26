@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana Potrafi Gotować",
+  "item-sandwich": "Kanapka",
+  "block-cuttingboard*": "Deska do krojenia",
+  "item-slicedbread-spelt-perfect": "Chleb orkiszowy krojony",
+  "item-slicedbread-rye-perfect": "Chleb żytni w plasterkach",
+  "item-slicedbread-flax-perfect": "Chleb krojony z lnu",
+  "item-slicedbread-rice-perfect": "Chleb w plasterkach ryżu",
+  "item-slicedbread-cassava-perfect": "Chleb krojony z manioku",
+  "item-slicedbread-amaranth-perfect": "Chleb krojony amarantusem",
+  "item-slicedbread-sunflower-perfect": "Chleb w plasterkach słonecznika",
+  "contents-sandwich": "Zawartość kanapki:",
+  "when-eaten": "Po zjedzeniu:",
+  "category-and-saturation-and-hp": "{0}, {1} sat, {2} KM",
+  "category-and-saturation": "{0}, {1} sob"
+}

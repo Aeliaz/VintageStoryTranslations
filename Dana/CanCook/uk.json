@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Дана вміє готувати",
+  "item-sandwich": "Сендвіч",
+  "block-cuttingboard*": "Обробна дошка",
+  "item-slicedbread-spelt-perfect": "Нарізаний хліб із спельти",
+  "item-slicedbread-rye-perfect": "Житній нарізаний хліб",
+  "item-slicedbread-flax-perfect": "Хліб нарізаний льоном",
+  "item-slicedbread-rice-perfect": "Рисовий нарізаний хліб",
+  "item-slicedbread-cassava-perfect": "Маніок нарізаний хліб",
+  "item-slicedbread-amaranth-perfect": "Амарантовий нарізаний хліб",
+  "item-slicedbread-sunflower-perfect": "Соняшниковий нарізаний хліб",
+  "contents-sandwich": "Вміст сендвіча:",
+  "when-eaten": "Коли їдять:",
+  "category-and-saturation-and-hp": "{0}, {1} сб, {2} к.с",
+  "category-and-saturation": "{0}, {1} сб"
+}

@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana sait cuisiner",
+  "item-sandwich": "Sandwich",
+  "block-cuttingboard*": "Planche à découper",
+  "item-slicedbread-spelt-perfect": "Pain de mie à l'épeautre",
+  "item-slicedbread-rye-perfect": "Pain de seigle tranché",
+  "item-slicedbread-flax-perfect": "Pain de mie au lin",
+  "item-slicedbread-rice-perfect": "Pain de riz tranché",
+  "item-slicedbread-cassava-perfect": "Pain tranché au manioc",
+  "item-slicedbread-amaranth-perfect": "Pain de mie à l'amarante",
+  "item-slicedbread-sunflower-perfect": "Pain de mie au tournesol",
+  "contents-sandwich": "Contenu du sandwich :",
+  "when-eaten": "Lorsqu'il est mangé :",
+  "category-and-saturation-and-hp": "{0}, {1} samedi, {2} ch",
+  "category-and-saturation": "{0}, {1} samedi"
+}

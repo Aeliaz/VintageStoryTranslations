@@ -1,0 +1,16 @@
+{
+  "game:tabname-danacancook": "Dana kann kochen",
+  "item-sandwich": "Sandwich",
+  "block-cuttingboard*": "Schneidebrett",
+  "item-slicedbread-spelt-perfect": "Dinkelscheibenbrot",
+  "item-slicedbread-rye-perfect": "Roggenbrot in Scheiben geschnitten",
+  "item-slicedbread-flax-perfect": "Flachsbrot in Scheiben geschnitten",
+  "item-slicedbread-rice-perfect": "Reis geschnittenes Brot",
+  "item-slicedbread-cassava-perfect": "Maniok-Schnittbrot",
+  "item-slicedbread-amaranth-perfect": "Amaranth geschnittenes Brot",
+  "item-slicedbread-sunflower-perfect": "Sonnenblumenbrot",
+  "contents-sandwich": "Inhalt des Sandwiches:",
+  "when-eaten": "Beim Verzehr:",
+  "category-and-saturation-and-hp": "{0}, {1} saß, {2} PS",
+  "category-and-saturation": "{0}, {1} saßen"
+}
